@@ -1,3 +1,3 @@
 print("Hello world!")
 print("Hello once again")
->>>>>>> merg/feature/add-logging
+#>>>>>>> merg/feature/add-logging
